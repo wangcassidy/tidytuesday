@@ -2,11 +2,9 @@
 
 A dashboard for visualizing extinct plants in different countries.
 
-Learning how to use Shiny Dashboard, still a work in progress.
-
 ## Data
 
-Thank you to:
+Credit:
 - [IUCN Red List](https://www.iucnredlist.org/)
 - [Florent Lavergne](https://www.behance.net/gallery/98304453/Infographic-Plants-in-Danger)
 - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
